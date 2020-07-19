@@ -1,0 +1,9 @@
+venv
+
+.vscode/
+
+/.ipynb_checkpoints
+
+/2018/.ipynb_checkpoints
+
+enem_2018_reduzido
